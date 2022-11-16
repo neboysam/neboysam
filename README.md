@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neboysam
-- 👀 I’m interested in web development and have a degree in that field
+- 👀 I’m interested in web development and have a degree in the field
 - 🌱 So far, I've completed several PHP projects, mainly regarding the API's, Symfony PHP and Node JS
 - 📫 For business, I work with WordPress too 
 
