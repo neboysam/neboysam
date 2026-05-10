@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neboysam
-- 👀 I’m interested in web development and have a degree in the field
-- 🌱 So far, I've completed several PHP projects, mainly regarding the API's, Symfony PHP and Node JS
-- 📫 For business, I work with WordPress too 
+- 👀 As a web developer, I work mainly with PHP
+- 🌱 So far, I've completed several professional projects in native OOP PHP and Symfony PHP (mainly regarding the APIs) and Node JS
+- 📫 For business, I create websites in WordPress 
 
 <!---
 neboysam/neboysam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
